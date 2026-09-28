@@ -25,10 +25,13 @@ Analyze:
 📊 Model Evaluation & Results
 The models were evaluated using Root Mean Square Error (RMSE) and Mean Absolute Error (MAE) to determine the most accurate forecasting tool:      
 
-  Model      RMSE    MAE
-  ARIMA      8.8     5.8
-  Prophet    20.5    15.3
-  SARIMA     36.99   25.59
+  Model   |  RMSE   |  MAE    |
+  
+  ARIMA   |   8.8   |  5.8    |
+  
+  Prophet |  20.5   |  15.3   |
+  
+  SARIMA  |  36.99  |  25.59  |
   
 Conclusion: The standard ARIMA model significantly outperformed the others in predicting medication dispensation quantities.   
 
