@@ -1,0 +1,2 @@
+# Predictive-Healthcare-Analytics-Forecasting-Prescription-Drug-Shortages
+Frequent drug shortages severely disrupt patient care, increase operational costs, and force reliance on alternative medications that can introduce unaccounted side effects. This project focuses on the healthcare industry's supply chain, utilizing historical prescription data to build a predictive model that forecasts drug shortages in advance.
